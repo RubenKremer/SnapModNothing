@@ -1,7 +1,7 @@
 # SnapModNothing
 Snapmod phone model templates for Nothing devices
 
-This repo contains (for now) the (Snapmod)[https://snapmod.gavinliu.cn/#/] custom model template for the **Nothing Phone (1)**.
+This repo contains (for now) the [Snapmod][snapmodwebsite] custom model template for the **Nothing Phone (1)**.
 
 ## Usage
 * Install the Snapmod app from the relevant app store for your device
@@ -18,3 +18,6 @@ This repo contains (for now) the (Snapmod)[https://snapmod.gavinliu.cn/#/] custo
 * Screenshot Point Y: **276**
 * Screenshot Width W: **1594**
 * Screenshot Height H: **3546**
+
+
+[snapmodwebsite]: https://snapmod.gavinliu.cn/#/
